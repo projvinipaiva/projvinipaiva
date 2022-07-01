@@ -29,7 +29,7 @@
   <a href="https://instagram.com/gh05t_st4r" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "vini.pms2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
-    (https://github.com/projvinipaiva/projvinipaiva/blob/main/.github/workflows/main.yml)
+
   ![projvinipaiva's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=projvinipaiva&hide_border=true&theme=github-light)
 </div>
 
