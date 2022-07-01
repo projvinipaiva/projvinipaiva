@@ -1,10 +1,17 @@
-### Hi there 👋
+  <h1 align="center">Olá Meu nome é Vinícius de Paiva Mendonça silva</h1>
+   <br>
+
+<div align="center">
+  <img width="800px" src="https://github.com/projvinipaiva/gif/blob/main/hollow-knight.gif">
+</div>
+
+<br>
 
 - não trabalho
 - Estudo na etec MCM na área de informatica "T.I"
 - 📫 contatar meu emeil: vini.pms2@gmail.com
 - 😄 Pronouns: vini
-- ⚡ Fun fact: O esforço leva a decepição, mas leva o que gostamos
+- ⚡ Fun fact: O esforço leva a decepição, mas leva o que precisamos
 <div align="center">
   <a href="https://github.com/projvinipaiva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=projvinipaiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
