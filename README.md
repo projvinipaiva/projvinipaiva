@@ -9,7 +9,7 @@
 
 - não trabalho/faço programa
 - Estudo na etec MCM na área de informatica "T.I"
-- 📫 contatar meu emeil: vini.pms2@gmail.com
+- 📫 vendo packs de fotos de computadores com entrada usbc: vini.pms2@gmail.com
 - 😄 Pronouns: ela/delu
 - ⚡ Fun fact: Gosto de homens masculos suados!
 <div align="center">
