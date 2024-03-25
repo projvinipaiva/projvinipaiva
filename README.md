@@ -7,11 +7,11 @@
 
 <br>
 
-- não trabalho
+- não trabalho/faço programa
 - Estudo na etec MCM na área de informatica "T.I"
 - 📫 contatar meu emeil: vini.pms2@gmail.com
-- 😄 Pronouns: vini
-- ⚡ Fun fact: O esforço leva a decepição, mas leva o que precisamos
+- 😄 Pronouns: ela/delu
+- ⚡ Fun fact: Gosto de homens masculos suados!
 <div align="center">
   <a href="https://github.com/projvinipaiva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=projvinipaiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
