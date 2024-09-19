@@ -7,11 +7,11 @@
 
 <br>
 
-- não trabalho/faço programa
+- não trabalho
 - Estudo na etec MCM na área de informatica "T.I"
-- 📫 vendo packs de fotos de computadores com entrada usbc: vini.pms2@gmail.com
-- 😄 Pronouns: ela/delu
-- ⚡ Fun fact: Gosto de homens masculos suados!
+- 📫 email: vini.pms2@gmail.com
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: paciente
 <div align="center">
   <a href="https://github.com/projvinipaiva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=projvinipaiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
