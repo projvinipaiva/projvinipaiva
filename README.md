@@ -8,7 +8,7 @@
 <br>
 
 - não trabalho
-- Estudo na etec MCM na área de informatica "T.I"
+- Estudo na Fatec-São Caetano na área de informatica "ADS"
 - 📫 email: vini.pms2@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: paciente
