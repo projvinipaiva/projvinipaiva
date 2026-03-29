@@ -45,9 +45,7 @@
           
 </div>
 
-### 📊 Estatísticas
 
-<br>
 
 
 
