@@ -1,7 +1,7 @@
   <h1 align="center">:skull:Vinícius de Paiva Mendonça Silva :skull:</h1>
    <br>
    
-**`Olá sou um Desenvolvedora FullStack`**
+**`Olá sou um Desenvolvedor FullStack`**
 
 <div align="center">
   <img width="800px" src="https://github.com/projvinipaiva/gif/blob/main/hollow-knight.gif">
