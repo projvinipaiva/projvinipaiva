@@ -9,7 +9,7 @@
 
 <br>
 
-- não trabalho. Em busca de oportunidades
+- Em busca de oportunidades
 - Estudo na Fatec-São Caetano na área de informatica "ADS"
 - 📫 email: vini.pms2@gmail.com
 - 😄 Pronouns: ele/dele
